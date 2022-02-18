@@ -1,4 +1,4 @@
-package ch06;
+package ch06_1;
 class Data{
 	int x;
 }
