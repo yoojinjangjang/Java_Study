@@ -29,3 +29,7 @@ JAVA TIL : Java 의 정석 학습 예제
 
 2-1 [벨로그](https://velog.io/@yoojinjangjang/JAVA-Ch07.-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D21#%EB%AA%A9%EC%B0%A8)  
 2-2 [벨로그](https://velog.io/@yoojinjangjang/JAVA-Ch07.-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D22)
+
+## Ch 08] 예외처리
+
+[벨로그](https://velog.io/@yoojinjangjang/JAVA-Ch08.-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-Exception-Handling)

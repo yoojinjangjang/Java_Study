@@ -5,7 +5,7 @@ public class FighterTest {
 	public static void main(String[] args) {
 		Fighter f = new Fighter();
 		
-		if(f instanceof Unit) {
+		if(f instanceof Unit2) {
 			System.out.println("Unit ÀÇ ÀÚ¼Õ");
 		}
 		if(f instanceof Fightable) {
@@ -29,7 +29,7 @@ public class FighterTest {
 
 }
 
-class Unit{
+class Unit2{
 	int currentHP;
 	int x;
 	int y;
@@ -48,7 +48,7 @@ interface Attackable{
 }
 interface Fightable extends Movable,Attackable{}
 
-class Fighter extends Unit implements Fightable{
+class Fighter extends Unit2 implements Fightable{
 	
 	public void move(int x, int y) {
 		System.out.println("move : " + x+ y);
