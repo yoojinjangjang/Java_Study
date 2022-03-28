@@ -52,3 +52,7 @@ JAVA TIL : Java 의 정석 학습 예제
 
 [1] [벨로그](https://velog.io/@yoojinjangjang/JAVA-Ch12.-%EC%A7%80%EB%84%A5%EB%A6%AD%EC%8A%A4%EC%97%B4%EA%B1%B0%ED%98%95%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98-1)  
 [2] [벨로그](https://velog.io/@yoojinjangjang/JAVA-Ch12.-%EC%A7%80%EB%84%A5%EB%A6%AD%EC%8A%A4%EC%97%B4%EA%B1%B0%ED%98%95%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98-2)
+
+## Ch 13 ] 쓰레드 [ Thread ]
+
+[벨로그](https://velog.io/@yoojinjangjang/JAVA-Ch13.-%EC%93%B0%EB%A0%88%EB%93%9C-Thread-1)
